@@ -14,7 +14,7 @@ print(
 )
 
 # Track whether levels are unlocked across multiple game rounds
-unlocked_level_67 = True
+unlocked_level_67 = False
 unlocked_level_99 = False  # Set to True for testing
 
 while True:
