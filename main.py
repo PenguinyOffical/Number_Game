@@ -1,6 +1,8 @@
-#PenguinyOffical
-import time
+#PenguinyOffical 2026
+#NumberGame 2.0 (2026.10.16)
+
 import random
+import time
 from list import levels
 from information import information
 user = -1
